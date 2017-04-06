@@ -1,0 +1,15 @@
+C:\ibm workspace\dotnet\coc-sms\coc-sms\bin\Debug\coc-sms.exe
+C:\ibm workspace\dotnet\coc-sms\coc-sms\bin\Debug\coc-sms.pdb
+C:\ibm workspace\dotnet\coc-sms\coc-sms\bin\Debug\coc-sms.xml
+C:\ibm workspace\dotnet\coc-sms\coc-sms\bin\Debug\ATSMS.dll
+C:\ibm workspace\dotnet\coc-sms\coc-sms\bin\Debug\Newtonsoft.Json.dll
+C:\ibm workspace\dotnet\coc-sms\coc-sms\obj\x86\Debug\coc_sms.frminit.resources
+C:\ibm workspace\dotnet\coc-sms\coc-sms\obj\x86\Debug\coc_sms.frmlogs.resources
+C:\ibm workspace\dotnet\coc-sms\coc-sms\obj\x86\Debug\coc_sms.frmuserlist.resources
+C:\ibm workspace\dotnet\coc-sms\coc-sms\obj\x86\Debug\coc_sms.main.resources
+C:\ibm workspace\dotnet\coc-sms\coc-sms\obj\x86\Debug\coc_sms.Resources.resources
+C:\ibm workspace\dotnet\coc-sms\coc-sms\obj\x86\Debug\coc-sms.vbproj.GenerateResource.Cache
+C:\ibm workspace\dotnet\coc-sms\coc-sms\obj\x86\Debug\coc-sms.exe
+C:\ibm workspace\dotnet\coc-sms\coc-sms\obj\x86\Debug\coc-sms.xml
+C:\ibm workspace\dotnet\coc-sms\coc-sms\obj\x86\Debug\coc-sms.pdb
+C:\ibm workspace\dotnet\coc-sms\coc-sms\obj\x86\Debug\coc-sms.vbprojResolveAssemblyReference.cache
